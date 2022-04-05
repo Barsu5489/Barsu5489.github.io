@@ -67,3 +67,12 @@ footer{
     align-items: center;
     justify-content: center;
 }
+@media screen  and (max-width:600px){
+    .lang{
+        width:90%;
+    }
+    .lang .lang-icon {
+        width:80%;
+    }
+    
+}
